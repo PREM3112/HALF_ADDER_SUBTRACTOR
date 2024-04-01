@@ -71,7 +71,8 @@ HALF SUBRACTOR:
 
 **Output/TIMING Waveform**
 ![Screenshot 2024-04-01 185008](https://github.com/PREM3112/HALF_ADDER_SUBTRACTOR/assets/145449383/9867930b-ebeb-44fb-93f2-34853a357954)
-![Uploading Screenshot 2024-04-01 185019.png…]()
+![Screenshot 2024-04-01 185019](https://github.com/PREM3112/HALF_ADDER_SUBTRACTOR/assets/145449383/63a9e198-68bc-4543-b793-82854e472e4e)
+
 
 
 
